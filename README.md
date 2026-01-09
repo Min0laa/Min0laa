@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Réseaux sociaux - Astuce : images cliquables directes pour éviter le soulignement -->
 <div align="center">
   <a href="https://x.com/Min0laa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/></a>
   &nbsp;&nbsp;
