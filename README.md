@@ -24,7 +24,7 @@
   </h3>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,docker,git,linux,postgres,nginx&theme=light" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,docker,git,linux&theme=light" alt="Tech Stack"/>
   </a>
 </div>
 
